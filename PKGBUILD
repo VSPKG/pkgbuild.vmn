@@ -1,6 +1,6 @@
 # Maintainer: Vineel Sai <mail@vineelsai.com>
 pkgname='vmn'
-pkgver=v0.3.3
+pkgver=v0.3.4
 pkgrel=1
 epoch=
 pkgdesc="A Program to manage Node.js versions"
